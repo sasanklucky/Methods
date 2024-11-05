@@ -70,4 +70,4 @@ print(d.popitem())
 print(d)
 print(d.popitem())
 print(d.popitem())
-#print(d.popitem()) error bcz empty dict
+#print(d.popitem()) error bcz empty dictionary
